@@ -1,0 +1,6 @@
+board:
+  name: nicenano
+  full_name: Nice Nano v2
+  vendor: nordic
+  socs:
+  - name: nrf52840
