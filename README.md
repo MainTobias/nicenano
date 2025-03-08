@@ -4,6 +4,8 @@
 * changed led0 to work
 * added ext_vcc switch
 
+To work put under C:/ncs/vX.X.X/zephyr/boards/nordic/
+
 ## Further resources
 
 
