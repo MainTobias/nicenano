@@ -29,7 +29,7 @@
 
 	ext_vcc: ext_vcc {
 		compatible = "ext-vcc";
-		control-gpios = <&gpio0 13 GPIO_ACTIVE_LOW>;
+		gpios = <&gpio0 13 GPIO_ACTIVE_LOW>;
 	};
 
 

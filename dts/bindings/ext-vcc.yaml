@@ -6,7 +6,7 @@ description: GPIO pin to switch a ext vcc on or off
 compatible: "ext-vcc"
 
 properties:
-  control-gpios:
+  gpios:
     type: phandle-array
     required: true
     description: |
